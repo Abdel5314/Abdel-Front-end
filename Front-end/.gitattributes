@@ -1,0 +1,5 @@
+* text=auto
+
+*.txt    text eol=lf ignore-space-at-eol
+
+*.png    binary
